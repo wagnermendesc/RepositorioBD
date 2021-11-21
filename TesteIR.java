@@ -17,6 +17,8 @@ public static void main(String[] args) {
     if (salario > 3751.1 && salario <= 4664.00 ) {
         System.out.println("IR Ã© de 22.5% e pode deduzir R$ 636");
 
+    // Trabalho prático 4
+    
     }
 }
 
